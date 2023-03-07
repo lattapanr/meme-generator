@@ -1,11 +1,14 @@
 /** @format */
 
 import React from "react";
+import Header from "./Header";
+import Meme from "./Meme";
 
 export default function App() {
   return (
-    <div className="App">
-      <h1>Hello! It's Noey!!!</h1>
+    <div className="container">
+      <Header />
+      <Meme />
     </div>
   );
 }
