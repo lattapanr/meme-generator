@@ -7,7 +7,7 @@ In this app, you get random images of (argurably) trendy memes, and you can also
 
 
 ## Live Demo
-To see the live demo [click here](meme-generator-bn97k96af-itsnoey.vercel.app)
+To see the live demo [click here](https://meme-generator-hk5nevxzx-itsnoey.vercel.app/)
 
 
 ## Built with 
